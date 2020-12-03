@@ -15,7 +15,7 @@ The Blockchain Learning Challenge was a long-form event carried out by the Decre
      - Applications that use Decred blockchain data in an original way to present new and detailed information about what makes Decred different will receive higher scores.
 
 - Functionality, usability and accessibility
-      - Applications that are simple, intuitive and easy to use for all kinds of users, regardless of their device or technical knowledge, will receive more points.
+     - Applications that are simple, intuitive and easy to use for all kinds of users, regardless of their device or technical knowledge, will receive more points.
      
 - Execution
      - The degree of progress in the execution of the project will be evaluated. Ideally, it should be 100% finished
