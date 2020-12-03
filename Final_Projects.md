@@ -27,7 +27,7 @@ The Blockchain Learning Challenge was a long-form event carried out by the Decre
 
 Project | Repository | Video Pitch | Extras 
 -------- | ----------- | ----------- | ----------
-Identidad Digital con Decred |https://github.com/eliseoabelcarh/NodeJs-MongoDb-ChallengeAPI-DecredBlockchain | https://youtu.be/HwjgUemRL-g |
+Digital Identity powered by Decred |https://github.com/eliseoabelcarh/NodeJs-MongoDb-ChallengeAPI-DecredBlockchain | https://youtu.be/HwjgUemRL-g |
 People of Pi | https://github.com/Pandogrammer/people-of-pi | https://youtu.be/EYh4YJjEkTI | 
 Dcrtime explorer | https://github.com/yoandresaav/dcrtime-explorer | https://youtu.be/CdRPrywc-WU | https://dcrtime-explorer.herokuapp.com/
 iPati | https://github.com/manueldevmx/ipati-blc | https://youtu.be/vIMALr1xh0E |
