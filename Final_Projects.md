@@ -33,3 +33,15 @@ Dcrtime explorer | https://github.com/yoandresaav/dcrtime-explorer | https://you
 iPati | https://github.com/manueldevmx/ipati-blc | https://youtu.be/vIMALr1xh0E |
 Bitmoney | https://github.com/Carlos-Carballo/Bitmoney |https://youtu.be/IhAkr-J2vwk | https://youtu.be/vvUANCgsFP8 
 Decred Memories | https://github.com/aeh-bonilla/decred-memories-api | https://youtu.be/w-6C0tExLFI | https://github.com/aeh-bonilla/decred-challenge-frontend
+
+Evaluation Form: 5 criteria will be used to judge the projects, each one adds 20 points to a maximum score of 100
+
+Project | Procurement and use of data | Relevance and specific findings of Decred | Functionality, usability and accessibility | Execution | Documentation
+-------- | ----------- | ----------- | ---------- | ----------- | ----------
+Digital Identity powered by Decred | | | | | |
+People of Pi | | | | | | 
+Dcrtime explorer | | | | | | 
+iPati | | | | | |
+Bitmoney | | | | | | 
+Decred Memories | | | | | |
+
