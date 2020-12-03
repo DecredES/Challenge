@@ -1,2 +1,2 @@
 # Challenge
-A repository for all things Talent Network related
+Un Repositorio para todas las actividades y retos de la comunidad Decred en Español dirigidas a distintos públicos.
