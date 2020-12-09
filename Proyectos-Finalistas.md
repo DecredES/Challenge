@@ -33,3 +33,17 @@ Dcrtime explorer | https://github.com/yoandresaav/dcrtime-explorer | https://you
 iPati | https://github.com/manueldevmx/ipati-blc | https://youtu.be/vIMALr1xh0E |
 Bitmoney | https://github.com/Carlos-Carballo/Bitmoney |https://youtu.be/IhAkr-J2vwk | https://youtu.be/vvUANCgsFP8 
 Decred Memories | https://github.com/aeh-bonilla/decred-memories-api | https://youtu.be/w-6C0tExLFI | https://github.com/aeh-bonilla/decred-challenge-frontend
+
+
+## Resultados de la Evaluación
+
+Proyecto | [Ammarooni](https://github.com/DecredES/Challenge/issues/1) | [bee](https://gist.github.com/xaur/ccedac5b9c8d62430efd317bc1e8ccda) | [Dave](https://gist.github.com/davecgh/83be30f0f54ea2ef1154225476ada368) | [Juan Cancino](https://github.com/DecredES/Challenge/blob/main/Evaluacio%CC%81n%20DECRED%20Juan%20Cancino.csv) | Puntaje
+--- | ---- | ---- | --- | --- | --- 
+Digital Identity | 56 | 35 | 49 | 66 | 52
+People of Pi | 81 | 76 | 79 | 89 | 81
+Bitmoney | 65 | 38 | 46 | 62 | 53
+DCRTime Explorer | 79 | 80 | 77 | 90 | 82
+Decred Memories | 64 | 49 | 54 | 63 | 58
+iPati | 50 | 21 | 16 | 74 | 40
+
+
