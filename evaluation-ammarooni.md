@@ -1,3 +1,8 @@
+---
+author: ammarooni
+published_utc: 2020-12-08
+---
+
 # Evaluation by ammarooni
 
 This is the evaluation of 6 final project for Decred Blockchain Learning Challenge, Oct-Dec 2020.
