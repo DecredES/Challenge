@@ -11,7 +11,7 @@ Proyecto | Adquisición y utilización de datos | Relevancia y conclusiones espe
 
 <a name="bitmoney"></a>
 
-# Bitmoney
+## Bitmoney
 
 - Video 1: https://youtu.be/IhAkr-J2vwk
 - Video 2: https://youtu.be/vvUANCgsFP8
@@ -30,7 +30,7 @@ Proyecto | Adquisición y utilización de datos | Relevancia y conclusiones espe
 
 <a name="dcrtime"></a>
 
-# Dcrtime Explorer
+## Dcrtime Explorer
 
 - Video: https://youtu.be/CdRPrywc-WU
 - Código: https://github.com/yoandresaav/dcrtime-explorer
@@ -52,7 +52,7 @@ Proyecto | Adquisición y utilización de datos | Relevancia y conclusiones espe
 
 <a name="memory"></a>
 
-# Decred Memories
+## Decred Memories
 
 - Video: https://youtu.be/w-6C0tExLFI
 - Código 1: https://github.com/aeh-bonilla/decred-memories-api
@@ -71,7 +71,7 @@ Proyecto | Adquisición y utilización de datos | Relevancia y conclusiones espe
 
 <a name="identity"></a>
 
-# Digital Identity powered by Decred
+## Digital Identity powered by Decred
 
 - Video: https://youtu.be/HwjgUemRL-g
 - Código: https://github.com/eliseoabelcarh/NodeJs-MongoDb-ChallengeAPI-DecredBlockchain
@@ -88,7 +88,7 @@ Proyecto | Adquisición y utilización de datos | Relevancia y conclusiones espe
 - El código no tiene ninguna documentación ni comentarios
 
 <a name="ipati"></a>
-# iPati
+## iPati
 
 - Video: https://youtu.be/vIMALr1xh0E
 - Código: https://github.com/manueldevmx/ipati-blc
@@ -109,7 +109,7 @@ este ámbito.
 
 <a name="pop"></a>
 
-# People of Pi
+## People of Pi
 
 - Video: https://youtu.be/EYh4YJjEkTI
 - Código: https://github.com/Pandogrammer/people-of-pi
