@@ -37,7 +37,7 @@ Decred Memories | https://github.com/aeh-bonilla/decred-memories-api | https://y
 
 ## Resultados de la Evaluación
 
-Proyecto | [Ammarooni](https://github.com/DecredES/Challenge/issues/1) | [bee](https://gist.github.com/xaur/ccedac5b9c8d62430efd317bc1e8ccda) | [Dave](https://gist.github.com/davecgh/83be30f0f54ea2ef1154225476ada368) | [Juan Cancino](https://github.com/DecredES/Challenge/blob/main/Evaluacio%CC%81n%20DECRED%20Juan%20Cancino.csv) | Puntaje
+Proyecto | [Ammarooni](https://github.com/DecredES/Challenge/issues/1) | [bee](https://gist.github.com/xaur/ccedac5b9c8d62430efd317bc1e8ccda) | [Dave](https://gist.github.com/davecgh/83be30f0f54ea2ef1154225476ada368) | [Juan Cancino](evaluation-juan-cancino.md) | Puntaje
 --- | ---- | ---- | --- | --- | --- 
 Digital Identity | 56 | 35 | 49 | 66 | 52
 People of Pi | 81 | 76 | 79 | 89 | 81
