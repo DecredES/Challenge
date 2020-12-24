@@ -1,3 +1,9 @@
+---
+author: Juan Cancino
+published_utc: 2020-12-09 20:13
+updated_utc: 2020-12-22 17:46
+---
+
 # Evaluation by Juan Cancino
 
 Proyecto | Procuración/uso de datos | Relevancia y Hallazgos DECRED | Funcionalidad, Usabilidad, Escalibilidad | Ejecución | Documentación | Promedio final

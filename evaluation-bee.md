@@ -1,3 +1,9 @@
+---
+author: bee
+published_utc: 2020-12-07 03:53
+updated_utc: 2020-12-12 00:53
+---
+
 # Evaluation by bee
 
 This is my evaluation of 6 final project for Decred Blockchain Learning Challenge, Oct-Dec 2020.

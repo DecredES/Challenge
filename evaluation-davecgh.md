@@ -1,3 +1,9 @@
+---
+author: davecgh
+published_utc: 2020-12-07 13:54
+updated_utc: 2020-12-17 04:14
+---
+
 # Puntuación
 
 Proyecto | Adquisición y utilización de datos | Relevancia y conclusiones específicas de Decred | Funcionalidad, facilidad de uso y accesibilidad | Ejecución | Documentación | Total
